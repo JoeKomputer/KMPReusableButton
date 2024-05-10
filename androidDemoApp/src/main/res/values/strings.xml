@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="click_here">Click Here!</string>
+    <string name="click_here_for_2">Click Here for 2!</string>
+    <string name="here_is_a_button_clicked_times">Here is a button clicked %1$s times</string>
+</resources>
